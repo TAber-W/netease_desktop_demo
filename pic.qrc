@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>res/setting.png</file>
+    <file>res/sign-out.png</file>
+    <file>res/zanting.png</file>
+    <file>res/home-2.png</file>
+    <file>res/xiayishou.png</file>
+    <file>res/shangyishou.png</file>
+    <file>res/add-bold.png</file>
+    <file>res/fabulous.png</file>
+    <file>res/download.png</file>
+    <file>res/mic.png</file>
+    <file>res/user.png</file>
+    <file>res/explain.png</file>
+    <file>res/home.png</file>
+    <file>res/icon-.png</file>
+    <file>res/icon_yingyongguanli.png</file>
+    <file>res/tongzhi-2.png</file>
+    <file>res/fanye-2.png</file>
+    <file>res/fanye.png</file>
+    <file>res/sousuo.png</file>
+  </qresource>
+</RCC>
