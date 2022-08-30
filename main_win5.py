@@ -718,7 +718,7 @@ class Ui_MainWindow(QMainWindow):
 
     '''服务器ip和端口，若是本地运行，ip则为localhost或127.0.0.1'''
     def serve_ip(self):
-        ip = "http://106.54.191.240:3000"
+        ip = ""
         return ip
 
 
